@@ -144,7 +144,7 @@ vietnam-real-estate-clustering/
 ├── vietnam_real_estate_clustering.ipynb
 ├── README.md
 ├── requirements.txt
-├── .gitignore
+├── data/
 └── images/
 ```
 
